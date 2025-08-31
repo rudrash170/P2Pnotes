@@ -14,7 +14,7 @@ A peer-to-peer notes app with automatic local network discovery, bidirectional s
 
 1. **Install dependencies:**
    ```bash
-   pip install flask rich
+   pip install -r requirements.txt
    ```
 2. **Run the app:**
    ```bash
